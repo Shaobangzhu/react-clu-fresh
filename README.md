@@ -1,2 +1,2 @@
-# E-commerce App created using React
+# Online Grocery App created using React
 
