@@ -1,2 +1,2 @@
-# react-e-commerce
-e-shopping app created using react
+# E-commerce App created using React
+
