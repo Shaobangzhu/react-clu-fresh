@@ -1,3 +1,4 @@
+import './styles/base.css';
 import './styles/border.css';
 
 import React from 'react';
