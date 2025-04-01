@@ -1,4 +1,4 @@
-import './styles/base.css';
+import 'normalize.css';
 import './styles/border.css';
 
 import React from 'react';

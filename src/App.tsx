@@ -1,6 +1,8 @@
+import './styles/app.css';
+
 function App() {
   return (
-    <div>
+    <div className="page">
       clu-fresh
     </div>
   );
