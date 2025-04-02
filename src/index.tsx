@@ -5,6 +5,10 @@ import ReactDOM from "react-dom/client";
 
 import App from "./App";
 
+// Run this code when init the project
+document.documentElement.style.fontSize =
+  (document.documentElement.clientWidth / 375) * 100 + "px";
+
 // Dynamically adjust the root font size based on the viewport width to support responsive scaling (e.g., for REM units)
 window.addEventListener("resize", () => {
   document.documentElement.style.fontSize =
